@@ -1,0 +1,3 @@
+C:/Users/austi/CLionProjects/CSC325_hw8/cmake-build-debug/CMakeFiles/CSC325_HW8.dir
+C:/Users/austi/CLionProjects/CSC325_hw8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/austi/CLionProjects/CSC325_hw8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

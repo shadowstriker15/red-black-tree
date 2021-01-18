@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/austi/CLionProjects/CSC325_hw8/RBTree.h
+
+C:/Users/austi/CLionProjects/CSC325_hw8/main.cpp
+iostream
+-
+unistd.h
+-
+RBTree.h
+C:/Users/austi/CLionProjects/CSC325_hw8/RBTree.h
+
